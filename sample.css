@@ -1,0 +1,108 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	color: #6c6b6b;
+}
+
+.clearfix::after {
+	content:"";
+	display: block;
+	clear: both;
+}
+
+
+
+.main{
+	width: 960px;
+	padding: 50px 0;
+	margin: 0 auto;
+}
+
+
+
+.a1{
+	background-color: silver;
+	padding:20px 0 20px 20px;
+}
+
+.a2{
+	background-color: white;
+	padding: 20px 0 20px 20px;
+}
+
+.main2{
+	width: 960px;
+	margin: 0 auto;
+}
+
+.orange1{
+	width: 30%;
+	height: 200px;
+	margin-right:5%;
+	background-color: orange;
+	float: left;
+}
+
+.yellow2{
+	width: 30%;
+	height: 200px;
+	margin-right:5%;
+	background-color: yellow;
+	float: left;
+}
+
+.yellow3{
+	width: 30%;
+	height: 200px;
+	background-color: yellow;
+	float: left;
+}
+
+.yellow4{
+	width: 30%;
+	height: 200px;
+	background-color: yellow;
+	margin: 40px 5% 0 0;
+	float: left;
+}
+
+.orange5{
+	width: 30%;
+	height: 200px;
+	margin:40px 5% 0 0;
+	background-color: orange;
+	float: left;
+}
+
+.yellow6{
+	width: 30%;
+	height: 200px;
+	background-color: yellow;
+	margin-top: 40px;
+	float: left;
+}
+
+.yellow7{
+	width: 30%;
+	height: 200px;
+	background-color: yellow;
+	margin: 40px 5% 50px 0;
+	float: left;
+}
+
+.yellow8{
+	width: 30%;
+	height: 200px;
+	background-color: yellow;
+	margin: 40px 5% 50px 0;
+	float: left;
+}
+
+.orange9{
+	width: 30%;
+	height: 200px;
+	margin:40px 0 50px 0;
+	background-color: orange;
+	float: left;
+}
